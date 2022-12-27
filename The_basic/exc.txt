@@ -1,0 +1,4 @@
+1. composer init
+2. composer require --dev phpunit/phpunit
+3. composer require --dev mockery/mockery
+4. php vendor/bin/phpunit tests/ExampleTest.php
